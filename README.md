@@ -1,6 +1,6 @@
 ## Dormant_Music_Files
 
-🎶 Automatically replace unpopular and innactive music files in VLC media player.
+🎶 Software concept for automatically replacing unpopular and inactive music files in VLC media player.
 
 ### CONCEPT
 
